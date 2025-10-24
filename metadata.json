@@ -1,0 +1,5 @@
+{
+  "name": "Teotlan Image Editor",
+  "description": "An AI-powered image editor and synthesizer. Upload one or two images, provide a prompt, and let the AI generate a new creation by editing or combining your pictures using the Gemini API.",
+  "requestFramePermissions": []
+}
